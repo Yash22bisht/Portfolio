@@ -6,7 +6,7 @@ import {Navbar} from "./components/navbar.jsx";
 function App() {
   return (
     <div >
-      <div className="h-screen w-screen bg-[#14001B]">
+      <div className=" h-screen w-screen bg-[#14001B]">
         <Navbar/>
       </div>
     </div>
